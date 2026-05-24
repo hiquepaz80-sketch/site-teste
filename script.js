@@ -32,7 +32,7 @@ function carregar () {
         img.src = 'fotonoite.png'
         body.style.backgroundColor = 'rgb(2, 0, 90)'
         sac.style.boxShadow = '5px 5px 150px rgb(1, 2, 29)'
-        recado.innerHTML = 'Boa Tarde 🌙'
+        recado.innerHTML = 'Boa Noite 🌙'
     }
 }
 
